@@ -1,0 +1,602 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#logo{
+    padding-left: 1.5vw;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 4vh;
+}
+#nav_icon{
+    padding-top: 3.5vh;
+    padding-right: 2.5vh;
+    height: 4vh;
+    float: right;
+    display: inline-block;
+    vertical-align: top;
+}
+#spa_picture{
+    height: 140vh;
+    position: absolute;
+    top: 20vh;
+    left: 5.5vw;
+    width: 90vw;
+}
+.bgc_about{
+    background-color: white;
+    width: 41vw;
+    position: relative;
+    top: 104vh;
+    left: 7vw;
+    padding-top: 0.1vh;
+    padding-left: 5vw;
+    
+}
+#heading_about{
+    font-size: 9vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f0a762;
+}
+#para_about{
+    width: 39vw;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 2.8vh;
+}
+#btn_about{
+    background-color: #f0a762;
+    width: 15vw;
+    height: 7vh;
+    border: 1px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 2vh;
+}
+#btn_about:hover{
+    color: black;
+    cursor: pointer;
+}
+.history1{
+    position: relative;
+    top: 130vh;
+    
+}
+#h_image{
+    height: 23vh;
+    width: 10vw;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#h_year{
+    font-size: 5vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f0a762;
+    text-align: center;
+}
+#para_history{
+    font-size: 2.5vh;
+    width: 13vw;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+.h1{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 14vw;
+    margin-left: 15vw;
+}
+.h2{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 14vw;
+}
+.h3{
+    display: inline-block;
+    vertical-align: top;
+}
+.history2{
+    position: relative;
+    top: 140vh;
+}
+.h4{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 14vw;
+    margin-left: 15vw;
+}
+.h5{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 14vw;
+}
+.h6{
+    display: inline-block;
+    vertical-align: top;
+}
+.border_packages{
+    position: relative;
+    top: 150vh;
+    background-color: #f0a762;
+    padding-top: 1vh;
+}
+#title{
+    text-align: center;
+    color: white;
+    font-size: 9vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#para_title{
+    width: 50vw;
+    font-size: 2.3vh;
+    text-align: center;
+    padding-left: 24vw;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.num {
+    background-color: #faa759;
+    width: 6.8vw;
+    border-radius: 60px;
+}
+#num1{
+    font-size: 8vh;
+    text-align: center;
+    padding: 2.2vh;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.bgc_packages{
+    background-color: white;
+    width: 21vw;
+    padding: 2px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 13vw;
+    margin-right: 2vw;
+    margin-top: 4vh;
+    padding-left: 2vw;
+    padding-bottom: 5vh;
+}
+.bgc_packages2{
+    background-color: white;
+    width: 21vw;
+    padding: 2px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 2vw;
+    margin-top: 4vh;
+    padding-left: 2vw;
+    padding-bottom: 5vh;
+}
+.bgc_packages3{
+    background-color: white;
+    width: 21vw;
+    padding: 2px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 4vh;
+    padding-left: 2vw;
+    padding-bottom: 5vh;
+}
+#para_package{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifs;
+    font-weight: 600;
+    font-size: 2.4vh;
+    width: 19vw;
+    font-style: italic;
+}
+#para_heading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifs;
+    font-size: 3.4vh;
+    font-style: italic;
+}
+#packages_learnmore{
+    text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    color: #f0a762;
+}
+#wave{
+    height: 6vh;
+    padding-left: 48vw;
+    padding-bottom: 5vh;
+    
+}
+.details{
+    position: relative;
+    top: 155vh;
+}
+#heading_details{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f38d2e;
+    text-align: center;
+    font-size: 8vh;
+}
+#para_details{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2vh;
+    font-weight: 600;
+}
+#massage{
+    height: 60vh;
+    width: 45vw;
+}
+.massage_pic{
+    padding-top: 6vh;
+    padding-left: 4vw;
+    display: inline-block;
+    vertical-align: top;
+}
+.bgc_massage{
+    margin-top: 10vh;
+    margin-left: 1vw;
+    display: inline-block;
+    vertical-align: top;
+    width: 20vw;
+}
+#massage_icon{
+    height: 8vh;
+    padding: 10px;
+}
+.massage_icon{
+    background-color: #f1d9c2;
+    width: 5.3vw;
+    height: 11vh;
+    border-radius: 50px;
+    margin-left: 7vw;
+}
+#para_message{
+    font-size: 3vh;
+    width: 15vw;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 2.4vw;
+    font-weight: 600;
+    font-style: italic;
+}
+#btn_more{
+    padding-left: 7.8vw;
+    text-decoration: underline;
+    color: black;
+    font-weight: 600;
+    font-size: 3vh;
+}
+#Message{
+    text-align: center;
+    font-size: 3.4vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+#ventosa{
+    height: 60vh;
+    width: 24vw;
+}
+.ventosa{
+    padding-top: 6vh;
+    display: inline-block;
+    vertical-align: top;
+}
+#facial1{
+    height: 60vh;
+    width: 24vw;
+}
+.facial1{
+    padding-left: 4vw;
+    display: inline-block;
+    vertical-align: top;
+}
+.bgc_facial{
+    display: inline-block;
+    vertical-align: top;
+    background-color: #faa759;
+    width: 20vw;
+    padding: 2.9vh;
+    height: 54vh;
+
+}
+#facial_icon{
+    height: 9vh
+}
+.facial_icon{
+    background-color: white;
+    width: 4.3vw;
+    padding: 9px;
+    border-radius: 50px;
+    margin-top: 1.5vh;
+    margin-left: 7.2vw;
+}
+#facial{
+    text-align: center;
+    font-size: 3.4vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+#para_facial{
+    font-size: 3vh;
+    width: 15vw;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 2.4vw;
+    font-weight: 600;
+    font-style: italic;
+}
+#btn_more1{
+    padding-left: 7.8vw;
+    text-decoration: underline;
+    color: black;
+    font-weight: 600;
+    font-size: 3vh;
+}
+.details1{
+    position: relative;
+    top: 154.4vh;
+}
+.face{
+    display: inline-block;
+    vertical-align: top;
+}
+#face{
+    height: 60vh;
+    width: 43.3vw;
+}
+#footer_facial{
+    position: relative;
+    top: 154vh;
+    font-size: 2vh;
+    text-align: center;
+}
+.sta_cus{
+    position: relative;
+    top: 190vh;
+    width: 50vw;
+    padding-left: 5vw;
+    
+}
+#title2{
+    font-size: 6vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f0a762;
+}
+#para_title2{
+    font-size: 3vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.stacus{
+    display: inline-block;
+    vertical-align: top;
+}
+.rubbing_pic{
+    display: inline-block;
+    vertical-align: top;
+    height: 30vh;
+    position: relative;
+    left: 55vw;
+    bottom: 60vh;
+}
+.rubbing{
+    height: 30vh;
+    width: 20vw;
+}
+.sayings{
+    position: relative;
+    top: 160vh;
+    background-color: #faa759;
+    padding-bottom: 15vh;
+}
+.box{
+    background-color: white ;
+    width: 40vw;
+    margin-left: 5vw;
+    padding-left: 1vw;
+    display: inline-block;
+    vertical-align: top;
+}
+#quote{
+    height: 10vh;
+
+}
+.quote{
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    top: 2vh;
+}
+.client{
+    padding-left: 1vw;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 3.5vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+#comment{
+    width: 30vw;
+    font-size: 3.5vh;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+#title3{
+    padding-top: 6vh;
+    font-size: 8vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+}
+.box1{
+    background-color: white ;
+    width: 40vw;
+    margin-left: 5vw;
+    padding-left: 1vw;
+    display: inline-block;
+    vertical-align: top;
+}
+.box2{
+    margin-top: 10vh;
+    background-color: white ;
+    width: 40vw;
+    margin-left: 5vw;
+    padding-left: 1vw;
+    display: inline-block;
+    vertical-align: top;
+}
+.box3{
+    margin-top: 10vh;
+    background-color: white ;
+    width: 40vw;
+    margin-left: 5vw;
+    padding-left: 1vw;
+    display: inline-block;
+    vertical-align: top;
+}
+.Exprience{
+    position: relative;
+    top: 170vh;
+    padding-left: 5vw;
+}
+#para_title4{
+    width: 55vw;
+    font-size: 3.5vh;
+    text-align: justify;
+}
+#title4{
+    font-size: 9vh;
+    color: #faa759;
+}
+
+.exprience{
+    display: inline-block;
+    vertical-align: top;
+}
+.workers{
+    position: relative;
+    left: 60vw;
+    bottom: 65vh;
+    background-color: white;
+    height: 50vh;
+    padding-top: 30vh;
+    text-align: center;
+    width: 30vw;
+    border: 3px solid #f38d2e;
+}
+#number15{
+    position: relative;
+    bottom: 15vh;
+    font-size: 15vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f38d2e;
+}
+#num_em{
+   position: relative;
+   bottom: 29vh;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: #f38d2e;
+}
+.hotels{
+    background-color: white;
+    width: 28vw;
+    position: relative;
+    bottom: 60vh;
+    height: 20vh;
+    padding-top: 4vh;
+    text-align: center;
+    border: 3px solid #f38d2e;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+#number5{
+    position: relative;
+    bottom: 18vh;
+    font-size: 15vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f38d2e;
+}
+#num_hotel{
+    position: relative;
+    bottom: 32vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f38d2e;
+}
+.years{
+    background-color: white;
+    width: 28vw;
+    position: relative;
+    bottom: 60vh;
+    height: 20vh;
+    padding-top: 4vh;
+    text-align: center;
+    border: 3px solid #f38d2e;
+    display: inline-block;
+    vertical-align: top;
+    left: 1.3vw;
+}
+#number15{
+    position: relative;
+    bottom: 18vh;
+    font-size: 15vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f38d2e;
+}
+#num_years{
+    position: relative;
+    bottom: 32vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f38d2e;
+ }
+ .customer{
+    background-color: white;
+    width: 30vw;
+    position: relative;
+    bottom: 60vh;
+    height: 20vh;
+    padding-top: 4vh;
+    text-align: center;
+    border: 3px solid #f38d2e;
+    display: inline-block;
+    vertical-align: top;
+    left: 2.5vw;
+}
+#number250{
+    position: relative;
+    bottom: 18vh;
+    font-size: 15vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f38d2e;
+}
+#num_customer{
+    position: relative;
+    bottom: 32vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f38d2e;
+ }
+.last{
+    background-color: #f38d2e;
+    position: relative;
+    top: 130vh;
+    padding-bottom: 4vh;
+}
+#lastpic{
+    height: 70vh;
+    position: relative;
+    left: 10vw;
+    width: 80vw;
+}
+#lasttitle{
+    font-size: 7vh;
+    padding-top: 4vh;
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
